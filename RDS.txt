@@ -1,0 +1,8 @@
+Types RDS suppported Instance Types: 
+
+Postgres
+MariaDB
+MySQL
+Oracle
+Microsoft SQL Server
+Arora (AWS)
