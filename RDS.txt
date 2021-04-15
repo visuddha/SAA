@@ -5,7 +5,7 @@ MariaDB
 MySQL
 Oracle
 Microsoft SQL Server
-Arora (AWS)
+Arora (AWS Propriotery)
 
 RDS is managed system :
 - system patches
