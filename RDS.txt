@@ -6,3 +6,12 @@ MySQL
 Oracle
 Microsoft SQL Server
 Arora (AWS)
+
+RDS is managed system :
+- system patches
+- backups and restore
+- monitoring 
+- read replicas
+- Multi AZ
+- Maintaince 
+- Storage EBS (GP2/io)
