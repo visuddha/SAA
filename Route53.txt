@@ -1,8 +1,8 @@
 Types of Routing : 
 
 Simple routing
-Latency routing
 Weighted routing
 Geolocation routing
-Geo proximity routing
+Latency routing
 Failover routing
+Multi answer routing
