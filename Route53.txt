@@ -1,6 +1,13 @@
+Reocrds sets :
+A records => hostname to IP
+Alias : apex domain to subdomain mapping is only possible over alias record.
+CNAME : hostname to hostname mapping.
+
 Types of Routing : 
 
-Simple routing
+Simple routing : 
+No health checks
+
 Weighted routing
 Geolocation routing
 Latency routing
