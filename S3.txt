@@ -2,4 +2,4 @@ S3 Summery
 
 S3 bucket public URL :
 <bucket-name>.s3.<region>.amazonaws.com/<key>
-https://visuddha-test.s3.us-east-1.amazonaws.com/cofee.png
+https://visuddha-blabla.s3.us-east-1.amazonaws.com/cofee.png
